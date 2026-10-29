@@ -1,0 +1,8 @@
+# Local configuration and secrets
+wp-config.php
+
+# macOS files
+.DS_Store
+
+# Local development logs
+*.log
